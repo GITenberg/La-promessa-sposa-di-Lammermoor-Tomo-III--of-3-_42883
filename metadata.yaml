@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42883#La-promessa-sposa-di-Lammermoor-Tomo-III--of-3-
 gutenberg_bookshelf: IT Romanzi storici
 gutenberg_issued: '2013-06-07'
 gutenberg_type: Text
