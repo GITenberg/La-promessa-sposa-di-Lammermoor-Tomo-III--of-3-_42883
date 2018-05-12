@@ -1,0 +1,38 @@
+_repo: La-promessa-sposa-di-Lammermoor-Tomo-III--of-3-_42883
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42883-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_bookshelf: IT Romanzi storici
+gutenberg_issued: '2013-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42883'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women murderers -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Arranged marriage -- Fiction'
+- !lcsh 'Psychological fiction'
+title: La promessa sposa di Lammermoor, Tomo 3 (of 3)
+url: http://www.gutenberg.org/ebooks/42883
